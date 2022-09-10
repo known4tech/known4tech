@@ -7,11 +7,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, JavaScript, Python**
+- 🌱 Currently learning **Data Structures & Algorithms using JavaScript & some UI/UX stuff using Figma and Adobe XD.**
 
 - 💬 Ask me about **Anything you want to ✌🏻**
 
-- 📫 How to reach me **https://linktr.ee/known4tech**
+- 📫 How to reach me **https://bio.link/known4tech**
 
 - ⚡ Fun fact **I think I am funny XD**
 
